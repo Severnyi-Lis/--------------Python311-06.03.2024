@@ -109,4 +109,4 @@ if pogoda == 'да':
     car_2,
     t_vstrechi,
     t_vstrechi
-    ))
+))
